@@ -17,7 +17,7 @@ Config.Locale = 'fr'
 
 -- GENERAL --
 Config.MenuTitle = 'ServerName' -- change it to you're server name
-Config.DoubleJob = false -- enable if you're using esx double job
+Config.DoubleJob = true -- enable if you're using esx double job
 Config.NoclipSpeed = 1.0 -- change it to change the speed in noclip
 Config.JSFourIDCard = false -- enable if you're using jsfour-idcard
 
